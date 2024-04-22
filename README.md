@@ -4,7 +4,7 @@ This is quiz project by building this it will teach you about accesibility on di
 
 # Accessibility Quiz
 
-![Project Preview](screenshot.png)
+![Project Preview](./ss.png)
 
 ## Table of Contents
 
@@ -43,6 +43,7 @@ This project is a practice quiz for HTML/CSS accessibility concepts, developed a
    ```
 
 2. **Live preview:**
+   [Here](https://manglam11.github.io/Learn-accesibility/)
 
 ```bash
 
