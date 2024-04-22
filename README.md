@@ -45,10 +45,6 @@ This project is a practice quiz for HTML/CSS accessibility concepts, developed a
 2. **Live preview:**
    [Here](https://manglam11.github.io/Learn-accesibility/)
 
-```bash
-
-```
-
 ## Usage
 
 1. **Fill out the student information form.**
